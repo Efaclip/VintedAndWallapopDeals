@@ -1,0 +1,7 @@
+===== 2026-11-02T21:56:11Z REGRESSION AFTER REVIEW FIXES =====
+--- normalizer: 37 PASS / 0 FAIL
+--- condition: Results: 10/10 tests passed
+--- pipeline: ALL PIPELINE CHECKS PASSED
+--- negative: FAILED: ['no filters: deal selected', 'pause suppresses everything', 'alerts recorded', 'price change re-alerts']
+--- review: ALL REVIEW-FIX CHECKS PASSED
+--- fixtures: ALL SCRAPER FIXTURE CHECKS PASSED

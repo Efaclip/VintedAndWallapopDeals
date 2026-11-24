@@ -1,0 +1,17 @@
+===== 2026-11-02T21:50:13Z FULL REGRESSION =====
+--- normalizer self-tests ---
+PASS MacBook Air 15 M5 => Apple | MacBook Air 15 M5
+PASS MacBook Pro 16 M5 Pro => Apple | MacBook Pro 16 M5 Pro
+PASS MacBook Pro M5 Pro 16 => Apple | MacBook Pro 16 M5 Pro
+PASS MacBook Pro M1 13 => Apple | MacBook Pro 13 M1
+--- condition self-tests ---
+Results: 10/10 tests passed
+--- pipeline (25 checks) ---
+25/25 checks passed
+ALL PIPELINE CHECKS PASSED
+--- negative/regression (33 checks) ---
+33/33 negative/regression checks passed
+ALL NEGATIVE/REGRESSION CHECKS PASSED
+--- scraper fixtures (10 checks) ---
+10/10 scraper fixture checks passed
+ALL SCRAPER FIXTURE CHECKS PASSED

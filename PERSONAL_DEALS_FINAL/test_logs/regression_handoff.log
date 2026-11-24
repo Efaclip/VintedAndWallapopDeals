@@ -1,0 +1,11 @@
+===== 2026-11-02T21:51:15Z FINAL REGRESSION (handoff) =====
+--- normalizer ---
+37
+--- condition ---
+Results: 10/10 tests passed
+--- pipeline ---
+ALL PIPELINE CHECKS PASSED
+--- negative ---
+ALL NEGATIVE/REGRESSION CHECKS PASSED
+--- fixtures ---
+ALL SCRAPER FIXTURE CHECKS PASSED
